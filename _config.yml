@@ -1,7 +1,7 @@
 name: FEMINA Movement
 favicon: null
-layout_spectrum: 0.847104209009558
-typography_spectrum: 0.9110288147348911
+layout_spectrum: 0.99729
+typography_spectrum: 0.75
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#f5f5f5'
+    - '#c7c7c7'
+    - '#36312c'
+    - '#5d605c'
+    - '#f56b6e'
   brandStrength: 0.41430111904628575
   lightness: 0.6004397734068334
   saturation: 0.834120772080496
