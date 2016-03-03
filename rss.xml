@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FEMINA Movement - Feel. Empower.Nourish.Inspire.Align]]></title>
+        <description><![CDATA[FEMINA Movement - Feel. Empower.Nourish.Inspire.Align]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 20:43:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is FEMINA Movement?]]></title>
+            <description><![CDATA[<article><h1>What is FEMINA Movement?</h1><p>It is about Feeling, Empowering, Inspiring, Nourishing, and Aligning our Mind, Body and Spirits.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/944519d2-acb1-4859-ab52-35d644d436e3.jpg"></article>]]></description>
+            <link>undefinedwhat-is-femina-movement/index.html</link>
+            <guid isPermaLink="false">783ca4ad-2a5e-4105-8f7f-2ae88549e2f1</guid>
+            <pubDate>Thu, 03 Mar 2016 20:41:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
