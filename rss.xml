@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FEMINA Movement - Feel. Empower.Nourish.Inspire.Align]]></title>
-        <description><![CDATA[FEMINA Movement - Feel. Empower.Nourish.Inspire.Align]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[FEMINA MovementFeel. Empower.Nourish.Inspire.Align]]></title>
+        <description><![CDATA[FEMINA MovementFeel. Empower.Nourish.Inspire.Align]]></description>
+        <link>https://thegrid.ai/femina-movement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 20:43:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 01:21:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/femina-movement/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wild women, Soul Sisters, Tribe, Collaborates, Community.</p>]]></description>
+            <link>https://thegrid.ai/femina-movement/648d833c-c440-4e1e-b44c-3948f75c40d2/index.html</link>
+            <guid isPermaLink="false">648d833c-c440-4e1e-b44c-3948f75c40d2</guid>
+            <pubDate>Sun, 06 Mar 2016 01:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is FEMINA Movement?]]></title>
-            <description><![CDATA[<article><h1>What is FEMINA Movement?</h1><p>It is about Feeling, Empowering, Inspiring, Nourishing, and Aligning our Mind, Body and Spirits.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/944519d2-acb1-4859-ab52-35d644d436e3.jpg"></article>]]></description>
-            <link>undefinedwhat-is-femina-movement/index.html</link>
+            <description><![CDATA[<article><h1>What is FEMINA Movement?</h1><p>It is about Feeling, Empowering, Inspiring, Nourishing, and Aligning our Mind, Body and Spirits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e257f404f47ac0bff75636c62b344c72cf071dd2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/femina-movement/what-is-femina-movement/index.html</link>
             <guid isPermaLink="false">783ca4ad-2a5e-4105-8f7f-2ae88549e2f1</guid>
             <pubDate>Thu, 03 Mar 2016 20:41:21 GMT</pubDate>
         </item>
